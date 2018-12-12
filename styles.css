@@ -1,0 +1,20 @@
+@charset "utf-8";
+.caption h3 img {
+	max-width: 100%;
+	max-height: 100%;
+
+}
+.col-lg-4 .well img {
+	max-width: 100%;
+	max-height: 100%;
+}
+.well {
+	margin-left: 20px;
+
+
+
+
+}
+.col-lg-9 .well {
+	margin-left: 20px;
+}
